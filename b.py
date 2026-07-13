@@ -88,7 +88,7 @@ self = b1
 
 
 7. Each Object Has Its Own Data
-b1.balance = 7000
+b1.balance = 700
 
 does not change:
 
@@ -111,6 +111,7 @@ For example:
 self.balance
 
 means:
+ self = object
 
 "The balance belonging to this object."
 
