@@ -49,6 +49,8 @@ Its job is to initialize the object.
 
 5. self 👤
 
+# name of object that represent the data in it
+
 This was today's most important concept.
 
 Think:
