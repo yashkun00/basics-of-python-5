@@ -1,11 +1,11 @@
-# basics-of-python-5
 
-1. Class 🏗️
+1. Class 
 
 A class is a blueprint for creating objects.
 
 class Mobile:
     pass
+# the function the class that will be present in class will be here
 
     
 2. Object 📱
@@ -15,6 +15,8 @@ An object is an instance of a class.
 m1 = Mobile()
 m2 = Mobile()
 
+# call the function of call in form of name 
+
 Each object is different.
 
 
@@ -22,6 +24,7 @@ Each object is different.
 3. Attributes 📦
 
 Attributes store data inside an object.
+# calling the features in form of attribute as 
 
 self.brand
 self.price
@@ -38,6 +41,8 @@ A special method that runs automatically when an object is created.
 def __init__(self, brand, price):
 
 Its job is to initialize the object.
+
+# use for creating a function that can run without even if the object is absent with predefined value
 
 
 
