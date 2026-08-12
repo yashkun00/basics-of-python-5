@@ -95,7 +95,7 @@ self = b1
 
 
 7. Each Object Has Its Own Data
-b1.balance = 700
+b1.balance = 70
 
 does not change:
 
