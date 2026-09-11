@@ -31,7 +31,7 @@ self.price
 
 Example:
 
-m1.brand = "Apple"
+m1.brand = "Orange"
 
 
 4. __init__() ⚙️
